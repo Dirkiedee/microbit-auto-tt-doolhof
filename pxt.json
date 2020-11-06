@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "bluetooth": "*",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.3.6"
     },
     "files": [
         "main.blocks",
